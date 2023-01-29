@@ -12,7 +12,7 @@ MaxWatch is a smartwatch system built from scratch in 2019. The final version of
 | MCU            | Powerful & ultra-efficient 64MHz 32-bit ARM® Cortex™ M4F CPU   |
 | RAM            | 256 kB                                                         |
 | ROM            | 1 MB (flash on SoC) + 16 MB (dedicated flash)                  |
-| Communications | Bluetooth 5.0 (with Thread and Zigbee support), USB 2.0, NFC-A |
+| Communications | Bluetooth 5.3 (with Thread and Zigbee support), USB 2.0, NFC-A |
 | Controls       | 4 buttons                                                      |
 | Screen         | 1.3 inch IPS display (240x240, 261 PPI)                        |
 | Battery        | 200 mAH LIPO                                                   |
